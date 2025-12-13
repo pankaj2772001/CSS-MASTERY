@@ -1,0 +1,14 @@
+ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline-block;
+    width: 100px;
+    margin-top: 10px;
+}
+
+.hidden-item{
+    display: none;
+}
