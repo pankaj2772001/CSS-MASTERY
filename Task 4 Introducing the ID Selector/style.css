@@ -1,0 +1,12 @@
+button{
+    padding: 10px 20px;
+}
+
+footer{
+    text-align: center;
+}
+
+#cta-button{
+   background-color: orange;
+   font-weight: bold;
+}
