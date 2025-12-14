@@ -1,0 +1,18 @@
+body{
+    margin: 50px;
+}
+
+.card{
+    height: 200px;
+    width: 300px;
+    background-color: lightsalmon;
+    position: relative;
+}
+
+.badge{
+    background-color: red;
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
