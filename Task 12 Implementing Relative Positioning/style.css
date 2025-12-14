@@ -1,0 +1,9 @@
+.base-text{
+    border: 1px solid gray;
+}
+
+.shifted-word{
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
