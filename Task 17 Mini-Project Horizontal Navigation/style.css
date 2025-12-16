@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.nav{
+    width: 600px;
+    background-color: darkgray;
+    margin: auto;
+    /* padding: 10px; */
+   
+}
+
+li{
+    display: inline-block;
+    width: 100PX;
+    padding: 2px;
+    
+    
+}
+
+a{
+    display: block;
+    text-decoration: none;
+     padding: 5px;
+}
+
+li a:hover{
+
+    background-color: #fff;
+    color: black;
+}
